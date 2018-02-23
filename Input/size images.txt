@@ -1,0 +1,18 @@
+imagen 1: 
+	tamanho: 225x225
+
+imagen 2: 
+	tamanho: 400x224
+
+imagen 3: 
+	tamanho: 700x490
+
+imagen 4: 
+	tamanho: 1500x1192
+
+imagen 5: 
+	tamanho: 1920x1920
+
+imagen 6: 
+	tamanho: 3175x2068
+
